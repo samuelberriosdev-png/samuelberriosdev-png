@@ -11,7 +11,7 @@ Me apasiona construir soluciones tecnológicas seguras y eficientes. Actualmente
 - *Backend:* Python (en aprendizaje activo).
 - *Herramientas:* Git, GitHub, VS Code.
 
-### 🎯 Mis Metas para 2024:
+### 🎯 Mis Metas para 2027:
 - [ ] Completar la certificación de *Full-Stack Development* en freeCodeCamp.
 - [ ] Profundizar en *Modelos de IA* y Automatización con Python.
 - [ ] Desarrollar aplicaciones con enfoque en *Seguridad de la Información*.
